@@ -1,4 +1,4 @@
-# olympic-analysis
+# Olympic-analysis
 
 Задачи исследования включают:
 
